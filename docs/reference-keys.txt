@@ -3,4 +3,7 @@ notkun-bókar-og-tungumál
 skyn
 talnaskyn-number-sense
 dæmi
-dæmi-5-8-11-14-17...-hvað-er-í-gangi-hér
+táknskyn-symbol-sense
+dæmi-1
+aðgerðaskyn-operation-sense
+dæmi-2
