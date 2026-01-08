@@ -1,5 +1,5 @@
 --- 
-title: "Hagnýtt stærðfræði í námi og kennslu"
+title: "Nótur um stærðfræðimenntun"
 author: "Ingólfur Gíslason"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -8,28 +8,19 @@ bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
-  This is a minimal example of using the bookdown package to write a book.
   The HTML output format for this example is bookdown::gitbook,
   set in the _output.yml file.
 link-citations: yes
-github-repo: rafauga/tilraun
+github-repo: rafauga/st_grunnskola
 ---
 
 # Um textann {#umtextann}
 
-Þessi texti er um stærðfræðileg líkön, framsetningu gagna og ályktanir sem hægt er að draga af gögnunum, en auk þess er hún um kennslu þar sem þetta eru viðfangsefnin. Hún er hugsuð sem kennsluefni í námskeiðinu Hagnýtt stærðfræði í námi og kennslu sem er fyrir stærðfræðikennaranema við Menntavísindasvið Háskóla Íslands. Hún gæti þó nýst nemendum í öðrum námskeiðum og jafnvel nemendum í framhaldsskólum.
+Þessi texti er verk í vinnslu. Hann er um stærðfræðimenntun, einkum kennslu og nám (frekar en kerfis- eða félagsfræðilega sýn). Hún er hugsuð sem kennsluefni í námskeiðinu Stærðfræði í grunnskóla sem er fyrir stærðfræðikennaranema við Menntavísindasvið Háskóla Íslands. Hún gæti þó nýst nemendum í öðrum námskeiðum eða starfandi kennurum. Textinn byggir víða á bók Henri Picciotto og Robin Pemantle, *There Is No One Way to Teach Math* og á að þjóna sem stuðningur og dýpkun við lestur og notkun þeirrar bókar. 
 
-Í textanum er áherslan á undirstöðuhugmyndir en ekki á tæknilegar útfærslur. Þó eru mörg dæmi þar sem við notum tölfræðiforritið R og önnur forrit, en þau dæmi þjóna fyrst og fremst hugmyndunum. Hér er ekki fjallað um ýmsa þætti gagnavinnslu og gagnavísinda, svo sem umbreytingu hrágagna á þægilegri form eða fágaðar tölfræðiaðferðir. Ekki er gert ráð fyrir þekkingu á stærðfræðikenningum eins og stærðfræðigreiningu eða línulegri algebru og þær eru ekki kynntar hér. 
-
-Form textans er fyrst og fremst sem röð verkefna. Mörg verkefni eru kenningarleg en önnur vísa til raunverulegra gagna og enn önnur beina athyglinni að kennslufræði. Gengið er út frá því að nemendur vinni bæði saman og með kennara sem hefur góða þekkingu á efninu, en áhugasamar manneskjur utan slíks samhengis gætu ef til vill nýtt sér textann líka. Verkefnum er raðað þannig að sum efni koma endurtekið fram, og stundum í nýju samhengi eða með aukinni dýpt. 
-
-## Kennslufræðilegar forsendur 
-
-Til þess að læra krefjandi fræði þarf nemandinn að brjóta heilann. Þess vegna er skipulag textans þannig að lesandi/nemandi ætti að glíma við verkefni áður en sett er fram einhver tiltekin aðferð til að leysa „verkefni af þeirri gerð“. Í mörgum hefðbundnum kennslubókum er aðferð fyrst sett fram, þá sýnidæmi, og loks koma dæmi fyrir nemendur til að leysa. Gallinn við það skipulag er að nemendur fá ekki tækifæri til að brjóta heilann um efnið sjálft til að byrja með og svo fá þeir ekki heldur tækifæri til að hugsa um það hvenær aðferðin á við og hvenær ekki (þeir vita að það á einmitt að nota þessa tilteknu aðferð við verkefnin sem fylgja beint á eftir). Það er hins vegar ekkert sem útilokar að kennari (eða texti) útskýri aðferðir eftir að nemandi hefur reynt sig við verkefni -- þó að vænlegast sé að það sé gert í samræðu og samstarfi nemenda og kennara. 
+Í textanum er áherslan á undirstöðuhugtök og praktískar leiðir í kennslu, auk rýni í stærðfræðilegt efni grunnskólans. Gengið er út frá því að lesendur vinni bæði saman og með kennara, en áhugasamar manneskjur utan slíks samhengis gætu ef til vill nýtt sér textann líka.
 
 ## Notkun bókar og tungumál
-
-Best er ef lesandi hefur aðgang að tölvu og geti keyrt R-skipanir. Þetta er hægt í flestum tölvum, í vafra, eða með því að hala niður R forritinu og/eða einhverjum framenda sem tengist R. Þar sem netið er síbreytilegt er líklega best að mæla einfaldlega með vef-leit að slíkri leið.  
 
 Ég ávarpa lesanda textans ýmist sem nemanda (hann), lesanda (hann), en stundum nota ég „þau“, „öll“, og önnur orð til að gefa til kynna að öll eru velkomin að lesa og læra af þessum texta, og persónur í verkefnatextum geta verið af ólíku kyni. 
 

@@ -1,0 +1,33 @@
+# Talnaskyn, táknskyn, aðgerðaskyn {#skyn}
+
+
+## Talnaskyn (number sense)
+Hugarreikningur - notkun þekktra staðreynda og að átta sig á samanburði talna (líka brota).
+
+Táknskyn (symbol sense) 
+* Að geta valið hvort gagnlegt sé að nota tákn (eins og bókstafi fyrir breytur og óþekktar tölur) við lausn verkefnis eða ekki
+* Að geta túlkað tákn sem notuð eru til að lýsa reikningum eða aðstæðum
+* Fimi í bókstafareikningi (að umbreyta táknarunum í aðrar jafngildar táknarunur) 
+* Val á réttum táknum fyrir tilteknar aðstæður
+
+### Dæmi: 
+* Er það satt að ef þú margfaldar þrjár tölur sem standa saman í talnaröðinni (eins og $13$, $14$ og $15$) verði útkoman alltaf margfeldi af $6$ (með öðrum orðum: $6$ gengur upp í henni).
+* Er það satt að 3 gangi upp í tölu ef $3$ gengur upp í þversummu hennar?
+* Er $(x+5)^2 = x^2 + 5^2$ ?
+* Er $-(y-1) = -y -1$ ?
+* Er $-a^2 = (-a)^2$ ?
+* Skiptir máli hvort við skrifum $4a+10$ eða $4b+10$ ?
+* Ef við segjum að $a$ og $b$ séu tölur, getur þá verið að $a=b$ ?
+
+Táknskyn er ekki eitthvað sem kemur fljótt eða sjálfkrafa. Það þarf að kenna nemendum að vinna með tákn. 
+
+Sameiginlegt með talnaskyni og táknskyni er aðgerðaskyn. 
+
+### Dæmi:
+Skoðum rununa $5, 8, 11, 14, 17...$ Hvað er í gangi hér?
+* Endurtekin samlagning, $5, 5+3, 5+3+3, ...$ sem hægt er að tjá með margföldun
+* Táknað með $5 + 3n$ og tengist framsetningu á línu $y = 3x+5$
+
+
+
+
