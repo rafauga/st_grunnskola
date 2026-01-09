@@ -1,8 +1,3 @@
----
-title: "01-kafli_skilningur"
-output: html_document
----
-
 # Skilningur
 
 Hvað er skilningur? Við getum rifjað upp tvígreiningu Richard Skemps, í venslaskilning og tækniskilning. Í örstuttum línum
