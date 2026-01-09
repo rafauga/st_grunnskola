@@ -1,3 +1,8 @@
+---
+title: "02-kafli_skyn"
+output: html_document
+---
+
 # Talnaskyn, táknskyn, aðgerðaskyn {#skyn}
 
 Orðið skyn á hér að fela í sér bæði skilning og skynjun. 
@@ -8,8 +13,8 @@ Með talnaskyni er meðal annars átt við að hve miklu leyti við getum reikna
 
 ### Dæmi
 
-* Við reiknum $13-9$ með því að hugsa $13 = 10 + 3$ og notum okkur að $10-9=1$ til að sjá að $13-9 = 10 - 9 + 3 = 1 + 3 = 4$.
-* Við reiknum $4 \cdot 13 = 2 \cdot 2 \cdot 13 = 2 \cdot 26 = 52$
+* Ef við reiknum $13-9$ með því að hugsa $13 = 10 + 3$ og notum okkur að $10-9=1$ til að sjá að $13-9 = 10 - 9 + 3 = 1 + 3 = 4$.
+* Ef við reiknum $4 \cdot 13 = 2 \cdot 2 \cdot 13 = 2 \cdot 26 = 52$
 
 Skoðið fleiri dæmi á [„Ég leysi stundum vandamálið með svona hringjum“ Hugsun barna um margföldun](https://skolathraedir.is/2021/04/21/eg-leysi-stundum-vandamalid-med-svona-hringjum-hugsun-barna-um-margfoldun/).
 
@@ -45,7 +50,7 @@ Skoðum rununa $5, 8, 11, 14, 17...$ Hvað er í gangi hér?
 * Endurtekin samlagning, $5, 5+3, 5+3+3, ...$ sem hægt er að tjá með margföldun
 * Táknað með $5 + 3n$ og tengist framsetningu á línu $y = 3x+5$
 
-Við viljum að nemendur skilji að endurtekna samlagningu má reikna með margföldun, og átti sig á og geti notað dreifiregluna $a(b+c)$ í sinni talnahugsun og hugarreikningi. 
+Við viljum meðal annars að nemendur skilji að endurtekna samlagningu má reikna með margföldun, og átti sig á og geti notað dreifiregluna $a(b+c)$ í sinni talnahugsun og hugarreikningi.
 
 
 

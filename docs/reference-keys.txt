@@ -1,5 +1,6 @@
 umtextann
 notkun-bókar-og-tungumál
+skilningur
 skyn
 talnaskyn-number-sense
 dæmi

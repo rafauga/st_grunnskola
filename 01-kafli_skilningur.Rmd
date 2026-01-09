@@ -1,0 +1,22 @@
+---
+title: "01-kafli_skilningur"
+output: html_document
+---
+
+# Skilningur
+
+Hvað er skilningur? Við getum rifjað upp tvígreiningu Richard Skemps, í venslaskilning og tækniskilning. Í örstuttum línum
+
+* Venslaskilningur er að skilja hvernig og hvers vegna.
+* Tækniskilningur er að vita hvernig hægt er að reikna. 
+
+Almennt séð 
+
+Að skilja hugtak ætti yfirleitt að þýða að nemandi geti: 
+
+* Útskýrt það, útskýra *hvers vegna* eitthvað er eins og það er, ekki bara nefna orð. Af hverju er 2(x+3) = 2x + 6? Dreifireglan eða dæmi með tölum, flatarmynd, ... Við ættum að biðja nemendur reglulega að útskýra bæði munnlega og skriflega. 
+* Að snúa ferlum við. Þú skilur ekki dreifireglu nema þú getir þáttað líka, þú skilur ekki jöfnur nema þú getir búið til jöfnu sem hefur lausnina 4, og getir búið til jöfnu út frá grafi. Það að geta snúið við ferlum (reversibility) er prófsteinn á skilning, leið til að dýpka skilning, og í sumum tilvikum önnur leið að skilningi. 
+* Svegjanleg notkun margra leiða. Að skilja jöfnur: með prófun, með gröfum, með töflum, með tækni, auk bókstafareiknings. 
+* Að geta tengt milli ólíkra framsetninga: tákn, töflur, gröf. 
+* Yfirfærsla á ný samhengi. Hlutföll - einslaga myndir. Fjarlægð - Pýþagóras. 
+* Að vita hvenær það á ekki við. Dæmi: ekki eru öll sambönd línuleg. Þess vegna er mikilvægt að rannsaka gagndæmi, hvenær eitthvað á ekki við. 
