@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.4)  9 JAN 2026 11:30
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.4)  9 JAN 2026 14:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -821,24 +821,36 @@ Chapter 1.
 
 ]
 Chapter 2.
-[7] [8
+[7]
+File: _main_files/figure-latex/reitir-1.pdf Graphic file (type pdf)
+<use _main_files/figure-latex/reitir-1.pdf>
+
+Underfull \hbox (badness 1052) in paragraph at lines 174--176
+\TU/lmr/m/n/10 og legg saman eða allan í einu“ (með fylgir eftirfarandi teiknin
+g):
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[8] [9] [10
 
 ]
 Chapter 3.
-[9]
+[11] [12]
 No file _main.bbl.
-[10] (./_main.aux)
+[13] (./_main.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 18679 strings out of 476179
- 344971 string characters out of 5809545
- 813751 words of memory out of 5000000
- 39164 multiletter control sequences out of 15000+600000
+ 18695 strings out of 476179
+ 345458 string characters out of 5809545
+ 816972 words of memory out of 5000000
+ 39177 multiletter control sequences out of 15000+600000
  475710 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 86i,6n,121p,1002b,410s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,6n,121p,1002b,442s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on _main.pdf (10 pages).
+Output written on _main.pdf (13 pages).

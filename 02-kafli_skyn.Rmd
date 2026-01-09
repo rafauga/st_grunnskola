@@ -17,20 +17,25 @@ Skoðið fleiri dæmi á [„Ég leysi stundum vandamálið með svona hringjum�
 
 Með táknskyni er meðal annars átt við:
 
-* Að geta valið hvort gagnlegt sé að nota tákn (eins og bókstafi fyrir breytur og óþekktar tölur) við lausn verkefnis eða ekki
-* Að geta túlkað tákn sem notuð eru til að lýsa reikningum eða aðstæðum
-* Fimi í bókstafareikningi (að umbreyta táknarunum í aðrar jafngildar táknarunur) 
-* Val á réttum táknum fyrir tilteknar aðstæður
+a. Að geta valið hvort gagnlegt sé að nota tákn (eins og bókstafi fyrir breytur og óþekktar tölur) við lausn verkefnis eða ekki
+a. Að geta túlkað tákn sem notuð eru til að lýsa reikningum eða aðstæðum
+a. Fimi í bókstafareikningi (að umbreyta táknarunum í aðrar jafngildar táknarunur) 
+a. Val á réttum táknum fyrir tilteknar aðstæður
 
-### Dæmi: 
+### Verkefni 
 
-* Er það satt að ef þú margfaldar þrjár tölur sem standa saman í talnaröðinni (eins og $13$, $14$ og $15$) verði útkoman alltaf margfeldi af $6$ (með öðrum orðum: $6$ gengur upp í henni).
-* Er það satt að 3 gangi upp í tölu ef $3$ gengur upp í þversummu hennar?
-* Er $(x+5)^2 = x^2 + 5^2$ ?
-* Er $-(y-1) = -y -1$ ?
-* Er $-a^2 = (-a)^2$ ?
-* Skiptir máli hvort við skrifum $4a+10$ eða $4b+10$ ?
-* Ef við segjum að $a$ og $b$ séu tölur, getur þá verið að $a=b$ ?
+Eftirfarandi spurningar reyna á táknskyn með ólíkum hætti. Í hverri línu er fullyrðing sem segja á hvort sé stundum, alltaf eða aldrei sönn. Við höfum áhuga á skilningi svo hér þarf að útskýra *hvers vegna* í sérhverjum lið. Við viljum líka benda á undir hvaða flokk táknskyns hér að ofan hvert dæmi reynir helst á.
+
+* $x+2 < 2x$. 
+* $-x$ er neikvæð tala.
+* Það skiptir máli hvort við skrifum $4a+10$ eða $4b+10$. 
+* Ef $a$ og $b$ eru breytur, þá er ómögulegt að $a=b$.
+* $(x+5)^2 = x^2 + 5^2$.
+* $-(y-1) = -y -1$ ?
+* $-a^2 = (-a)^2$ ?
+* Ef þú margfaldar þrjár tölur sem standa saman í talnaröðinni (eins og $13$, $14$ og $15$) verður útkoman alltaf margfeldi af $6$ (með öðrum orðum: $6$ gengur upp í henni).
+* Ef $3$ gengur upp í þversummu tölu þá gengur $3$ gengur upp í tölunni.
+
 
 Táknskyn er ekki eitthvað sem kemur fljótt eða sjálfkrafa. Það þarf að kenna nemendum að vinna með tákn. 
 
@@ -38,7 +43,7 @@ Táknskyn er ekki eitthvað sem kemur fljótt eða sjálfkrafa. Það þarf að 
 
 Sameiginlegt með talnaskyni og táknskyni er aðgerðaskyn. Þá er átt við að skilja reikniaðgerðir, ólíka eiginleika þeirra og tengsl þeirra á milli, auk þess að hafa vit á því að nota þær við viðeigandi aðstæður og verkefnum.
 
-### Dæmi:
+### Dæmi
 
 Skoðum rununa $5, 8, 11, 14, 17...$ Hvað er í gangi hér?
 
@@ -47,6 +52,14 @@ Skoðum rununa $5, 8, 11, 14, 17...$ Hvað er í gangi hér?
 
 Við viljum meðal annars að nemendur skilji að endurtekna samlagningu má reikna með margföldun, og átti sig á og geti notað dreifiregluna $a(b+c)$ í sinni talnahugsun og hugarreikningi.
 
+### Verkefni
+
+Víxlregla um samlagningu segir að jafnan $a+b = b+a$ sé alltaf sönn. 
+
+1. Gildir víxlregla um frádrátt? Er hægt að segja eitthvað um tölurnar $a$ og $b$ ef $a-b = b-a$? 
+1. Er einhver regla á því hvað gerist ef liðum er víxlað í frádrætti? Hvað gerist? 
+1. Gildir víxlregla um margföldun? 
+1. Gildir víxlregla um deilingu? 
 
 
 

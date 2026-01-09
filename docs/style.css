@@ -1,14 +1,38 @@
-p.caption {
+/* Caption (aðallega fyrir myndir) */
+.figure > p.caption {
   color: #777;
-  margin-top: 10px;
+  margin-top: 0.3em;
 }
+
+/* Ef þú vilt líka caption-stíl utan figure (sjaldgæft), notaðu þetta í staðinn:
+p.caption { color:#777; }
+*/
+
+/* Inline code í texta */
 p code {
   white-space: inherit;
 }
+
+/* Code blocks */
 pre {
   word-break: normal;
   word-wrap: normal;
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
 }
+
 pre code {
   white-space: inherit;
+}
+
+/* Figures (gitbook) */
+.figure {
+  margin-top: -0.3em !important;
+  margin-bottom: 0.8em !important;
+}
+
+/* Source code wrapper (gitbook / pandoc) */
+.sourceCode {
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
 }

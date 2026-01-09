@@ -1,10 +1,15 @@
+fig:reitir
 umtextann
 notkun-bókar-og-tungumál
 skilningur
+venslaskilningur-og-tækniskilningur
+skilningur-í-daglegu-máli-og-í-stærðfræði
+verkefni
 skyn
 talnaskyn-number-sense
 dæmi
 táknskyn-symbol-sense
-dæmi-1
+verkefni-1
 aðgerðaskyn-operation-sense
-dæmi-2
+dæmi-1
+verkefni-2

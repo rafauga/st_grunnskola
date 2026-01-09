@@ -14,6 +14,10 @@ link-citations: yes
 github-repo: rafauga/st_grunnskola
 ---
 
+```{r setup, include=FALSE}
+source("R/figures.R")
+```
+
 # Um textann {#umtextann}
 
 Þessi texti er verk í vinnslu. Hann er um stærðfræðimenntun, einkum kennslu og nám (frekar en kerfis- eða félagsfræðilega sýn). Hún er hugsuð sem kennsluefni í námskeiðinu Stærðfræði í grunnskóla sem er fyrir stærðfræðikennaranema við Menntavísindasvið Háskóla Íslands. Hún gæti þó nýst nemendum í öðrum námskeiðum eða starfandi kennurum. Textinn byggir víða á bók Henri Picciotto og Robin Pemantle, *There Is No One Way to Teach Math* og á að þjóna sem stuðningur og dýpkun við lestur og notkun þeirrar bókar. 
